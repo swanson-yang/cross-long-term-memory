@@ -1,4 +1,4 @@
-Title: 
+Title: \\
 Long-term Memory Property for Fractional Brownian Fields : Cross Long-term Memory
 
 Abstract: 
